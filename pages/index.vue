@@ -5,7 +5,7 @@
       <v-form>
         <base-input label="Correo electronico"  />
         <base-input label="Contraseña" typeInput="password" />
-        <base-button buttonText="INGRESAR"  to="dashboard/home-garage"/>
+        <base-button buttonText="INGRESAR"  to="dashboard/homeGarage"/>
       </v-form>
     </v-card>
   </div>
